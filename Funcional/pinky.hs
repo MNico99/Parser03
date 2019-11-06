@@ -3,5 +3,3 @@ data Animar = UnAnimal{
     especie :: String,
     capacidades :: [String]
 } deriving Show
-
-
